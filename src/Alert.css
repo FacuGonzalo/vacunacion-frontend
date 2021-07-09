@@ -1,0 +1,7 @@
+.alert-exito{
+    z-index: 1000;
+    position: absolute;
+    bottom: 0;
+    left: 25%;
+    width: 50%;
+}
